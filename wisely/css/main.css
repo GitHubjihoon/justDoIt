@@ -1,3 +1,21 @@
 body {
     background: tomato;
 }
+.menu-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 66px;
+
+    background: chartreuse;
+}
+header {
+    display: flex;
+    height: 48px;
+}
+.menu-list {
+    display: flex;
+}
+.menu-list ul {
+    display: flex;
+}
